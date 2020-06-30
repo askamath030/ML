@@ -1,6 +1,4 @@
-# ML
-
-DLithe Internship Certification Program
+# DLithe Internship Certification Program
  
 Project Topic : Fraud Detection Dataset
 Reference : DLithe  
