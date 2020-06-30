@@ -14,7 +14,7 @@ The steps involved in the project are:
 
 1. exploring the dataset also visualizing as well as cleaning the data set .
 
-2. Data preprocessing
+2. data preprocessing
 
 3. building machine learning models
 
