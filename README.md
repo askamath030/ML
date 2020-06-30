@@ -25,3 +25,5 @@ The steps involved in the project are:
 6. upsampling- Upsampling (balanced): decide how many times the sample size of the minority class wants to be used and perform sampling with replacement in the minority class and sampling without replacement in the majority class.
 
 7. final model creation and analysis outcome.
+
+Kaggle link to dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
